@@ -1,4 +1,4 @@
-<img src="[./](https://www.weareamundsen.com/wp-content/uploads/2017/02/code-1076536_960_720.jpg)" alt="My cool logo"/>
+<img src="(https://www.weareamundsen.com/wp-content/uploads/2017/02/code-1076536_960_720.jpg)" alt="My cool logo"/>
 
 Soy un desarrollador web en crecimiento. 
 Tengo conocimiento en HTML | CSS | Bootstrap | GitHub | Git |
