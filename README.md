@@ -1,4 +1,4 @@
-<img src="https://www.weareamundsen.com/wp-content/uploads/2017/02/code-1076536_960_720.jpg" alt="Imagen programacion"/ style="max-width: 100%;">
+<img src="https://www.weareamundsen.com/wp-content/uploads/2017/02/code-1076536_960_720.jpg" alt="Imagen programacion" style="max-width: 100%;"/>
 
 Soy un desarrollador web en crecimiento. 
 
